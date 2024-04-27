@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">programming_for_mobile_devices_7-1-1</string>
+    <string-array name="steaks">
+        <item>全熟</item>
+        <item>七分熟</item>
+        <item>五分熟</item>
+        <item>三分熟</item>
+    </string-array>
+</resources>
